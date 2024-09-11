@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\Teste\Fibonacci\bin\Debug\net8.0\TesteFibonacci.exe
+C:\Users\Administrator\Desktop\Teste\Fibonacci\bin\Debug\net8.0\TesteFibonacci.deps.json
+C:\Users\Administrator\Desktop\Teste\Fibonacci\bin\Debug\net8.0\TesteFibonacci.runtimeconfig.json
+C:\Users\Administrator\Desktop\Teste\Fibonacci\bin\Debug\net8.0\TesteFibonacci.dll
+C:\Users\Administrator\Desktop\Teste\Fibonacci\bin\Debug\net8.0\TesteFibonacci.pdb
+C:\Users\Administrator\Desktop\Teste\Fibonacci\obj\Debug\net8.0\TesteFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\Teste\Fibonacci\obj\Debug\net8.0\TesteFibonacci.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\Teste\Fibonacci\obj\Debug\net8.0\TesteFibonacci.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\Teste\Fibonacci\obj\Debug\net8.0\TesteFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Teste\Fibonacci\obj\Debug\net8.0\TesteFibonacci.sourcelink.json
+C:\Users\Administrator\Desktop\Teste\Fibonacci\obj\Debug\net8.0\TesteFibonacci.dll
+C:\Users\Administrator\Desktop\Teste\Fibonacci\obj\Debug\net8.0\refint\TesteFibonacci.dll
+C:\Users\Administrator\Desktop\Teste\Fibonacci\obj\Debug\net8.0\TesteFibonacci.pdb
+C:\Users\Administrator\Desktop\Teste\Fibonacci\obj\Debug\net8.0\TesteFibonacci.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\Teste\Fibonacci\obj\Debug\net8.0\ref\TesteFibonacci.dll

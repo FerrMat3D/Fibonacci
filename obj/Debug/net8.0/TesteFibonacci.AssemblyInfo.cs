@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Fibonacci")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TesteFibonacci")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+843ce0ba3c6bfee78519fa505aa45d101135d47c")]
-[assembly: System.Reflection.AssemblyProductAttribute("Fibonacci")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Fibonacci")]
+[assembly: System.Reflection.AssemblyProductAttribute("TesteFibonacci")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TesteFibonacci")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.

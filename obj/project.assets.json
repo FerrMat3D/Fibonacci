@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Teste\\Fibonacci\\Fibonacci.csproj",
-      "projectName": "Fibonacci",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\Teste\\Fibonacci\\Fibonacci.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\Teste\\Fibonacci\\TesteFibonacci.csproj",
+      "projectName": "TesteFibonacci",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\Teste\\Fibonacci\\TesteFibonacci.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Administrator\\Desktop\\Teste\\Fibonacci\\obj\\",
       "projectStyle": "PackageReference",

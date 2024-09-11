@@ -1,6 +1,6 @@
-﻿using System;
+﻿﻿using System;
 
-class Program
+class TesteFibonacci
 {
     static void Main()
     {
