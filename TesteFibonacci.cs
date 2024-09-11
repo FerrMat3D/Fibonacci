@@ -25,8 +25,14 @@ class TesteFibonacci
 
     static bool PertenceFibonacci(int numero)
     {
-        if (numero == 0) return true;
-        if (numero == 1) return true;
+        if (numero == 0){
+return true;
+            
+        } 
+        if (numero == 1){
+return true;
+
+        } 
 
         int a = 0, b = 1;
         while (b < numero)
